@@ -4,14 +4,13 @@
 
 ###
 
-<p align="center">My name is Damian and I'm a student of Gdańsk University of Technology, from Poland 🥟</p>
+<p align="center">My name is Damian.<br>Student of Gdańsk University of Technology <br>&<br> Junior Fullstack Developer, from Poland 🥟</p>
 
 ###
-  <p align="center">🔬 I'm currently working on <a href="https://github.com/KeepIt-Up/MagJob">MagJob</a>, <a href="https://github.com/DamianLaczynski/Calendar-Schedule-App">Calendar-Schedule App</a><br>
-      📚 I'm currently learning deployment and testing<br>
-      🎯 Goals: Be a Fullstack Developer<br>
-      💪Strengths: Never give up, Flexible<br>
-      😩 Weakness: Perfectionism<br>
+  <p align="center">🔬 I'm currently working on <a href="https://github.com/KeepIt-Up/MagJob">MagJob2.0</a><br>
+      📚 I'm currently learning Clean Architecture & Design Patterns<br>
+      🎯 Goals: Do something amazing<br>
+      💪Strengths: Never give up<br>
       🎲 Fun fact: I'm learning Angular because one company rejected my application</p>
   
 
